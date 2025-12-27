@@ -1,6 +1,5 @@
 # 👋 Welcome to my Github 
-
-I'm Sangwook my major is CSE I'm Studying BackEnd Skills for my future
+I'm Sangwook my major is CSE and Studying BackEnd Skills for my future
 
 ## ⚙️ Skills
 
@@ -14,4 +13,8 @@ I'm Sangwook my major is CSE I'm Studying BackEnd Skills for my future
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+**Database**  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
