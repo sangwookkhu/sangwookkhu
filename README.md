@@ -1,11 +1,10 @@
 ## Welcome to my Github
-I'm Sangwook my major is CSE 
-I'm Studying BackEnd Skills for my future
 
+I'm Sangwook my major is CSE I'm Studying BackEnd Skills for my future
 
-### Skills
+## Skills
 
----
+<hr>
 
 **Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -18,20 +17,4 @@ I'm Studying BackEnd Skills for my future
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
----
-
-
-<!--
-**sangwookkhu/sangwookkhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr>
