@@ -1,8 +1,8 @@
-## 👋 Welcome to my Github 
+# 👋 Welcome to my Github 
 
 I'm Sangwook my major is CSE I'm Studying BackEnd Skills for my future
 
-### ⚙️ Skills
+## ⚙️ Skills
 
 **Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
