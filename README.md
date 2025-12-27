@@ -1,4 +1,12 @@
-## Hi there 👋
+## Welcome to my Github
+I'm Sangwook my major is CSE 
+I'm Studying BackEnd Skills for my future
+
+### Skills
+https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white
+https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white
+https://img.shields.io/badge/ts--node-3178C6?style=for-the-badge&logo=ts-node&logoColor=white
+
 
 <!--
 **sangwookkhu/sangwookkhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
