@@ -4,8 +4,6 @@ I'm Sangwook my major is CSE I'm Studying BackEnd Skills for my future
 
 ## Skills
 
-<hr>
-
 **Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
@@ -17,4 +15,3 @@ I'm Sangwook my major is CSE I'm Studying BackEnd Skills for my future
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-<hr>
